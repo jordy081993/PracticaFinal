@@ -1,0 +1,220 @@
+{
+  "main": {
+    "name": "Jordy Morales",
+    "occupation": "estudiante del último año de  Desarrollo de Aplicaciones Web ",
+    "description": "tengo conocimientos en java, php , manejo de base datos y estoy buscando mejorar mis habilidades.",
+    "image": "mi_foto.png",
+    "bio": "Me encanta la programación back-end, me gusta ayudar a mis compañeros y aprender de ellos. Podría pasar mucho tiempo programando porque es como un reto para mí, que no afecta mi estado mental, maás bien me divierte.",
+    "contactmessage": "Deja tu mensaje y contactaré contigo.",
+    "email": "jordymoralesh@gmail.com",
+    "phone": "672725434",
+    "address": {
+      "street": "Calle de soledades 8",
+      "city": "Madrid",
+      "state": "Comunidad de Madrid",
+      "zip": "28054"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100061736152888",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/jordyrmh",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+   
+    "education": [
+   
+      {
+        "school": "IES SAN JUAN DE LA CRUZ",
+        "degree": "Grado superior en Desarrollo de aplicaciones web",
+        "graduated": "2020 - Actualmente cursando",
+        "description": "Formación profesional: manajo de java, php, javascript, css, php y linux"
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "75%"
+      },
+      {
+        "name": "HTML",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "JAVASCRIPT",
+        "level": "50%"
+      },
+      {
+        "name": "LINUX",
+        "level": "50%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ejercicio 8.1",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "ejercicio_8_1.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_1.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_1/ejercicio_8_1.html"
+     
+      },
+      {
+        "title": "ejercicio 8.2",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "ejercicio_8_2.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_2.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_2/ejercicio_8_2.html"
+     
+      },
+      {
+        "title": "ejercicio 8.3",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "ejercicio_8_3.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_3.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_3/ejercicio_8_3.html"
+      },
+      {
+        "title": "Ejercicio 8.4",
+        "category": "A React based resume website template",
+        "image": "ejercicio_8_4.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_4.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_4/ejercicio_8_4.html"
+      },
+      {
+        "title": "Ejercicio 8.5",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "ejercicio_8_5.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_5.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_5/ejercicio_8_5.html"
+      },
+      {
+        "title": "Ejercicio 8.6",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "ejercicio_8_6.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_6.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_6/ejercicio_8_6.html"
+      },
+      {
+        "title": "Ejercicio 8.7",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "ejercicio_8_7.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_8/ejercicio_8_7.html",
+        "demo": "./ejercicios/Ejercicios_Tema_8/ejercicio_8_7/ejercicio_8_7.html"
+      },
+    
+      {
+        "title": "Deslizar cuadro",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "ejercicio_8_8.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_9/delizar_cuadro/azul.html",
+        "demo" : "./ejercicios/practica_9/delizar_cuadro/azul.html"
+
+       
+      },
+      {
+        "title": "practica 9: portero discoteca",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "disco_portero.png",
+        "url": "",
+        "demo" : "./ejercicios/practica_9/portero_discoteca.html"
+
+      },
+
+      {
+        "title": "practica 9: cara o cruz",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "cara_cruz.png",
+        "url": "",
+        "demo" : "./ejercicios/practica_9/cara_cruz.html"
+
+      },
+
+
+
+      {
+        "title": "practica: test'",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "test.png",
+        "url": "",
+        "demo" :  "./ejercicios/examen/test.html"
+
+      },
+
+
+      {
+        "title": "practica 9: punto promesa",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "punto_promesa.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_9/punto_promesa_9_4.html",
+        "demo" : "./ejercicios/practica_9/punto_promesa_9_4.html"
+
+      },
+      {
+        "title": "practica 9: promesa tiempo",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "tiempo_promesa.png",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_9/punto_time.html",
+        "demo" : "./ejercicios/practica_9/punto_time.html"
+      },
+      {
+        "title": "practica 9: temporizador de promesa",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/jordy081993/repositorio_1/blob/master/practica_9/temp_promesas.html",
+        "demo" : "./ejercicios/practica_9/temp_promesas.html"
+      },
+      {
+        "title": "ejercicio con jquery",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "ejercicio_jquery.png",
+        "url": "https://github.com/jordy081993/repositorio_1/tree/master/practica_8/jquery",
+        "demo" : "./ejercicios/jquery/ejercicio1.html"
+      }
+
+    ]
+  }
+}
